@@ -1,0 +1,29 @@
+/*
+  全局公用变量，mixin, extend
+ */
+$color-default: #333333;
+$color-secondary: #666666;
+$color-info: #999999; // 注释文本：14px/12px  #99999
+$color-hint: #f5a338; // 提醒文本：14px/12px  #f5a338
+$color-warn: #f00000; // 警告文本：14px/12px  #f00000
+$color-success: #75df70; // 成功文本：14px/12px  #75df70
+
+$color-bg: #F5F6F7; // 背景颜色
+$color-link: #3F70FE; // 文本链接颜色
+$color-border: #EAEAEA; // 边框颜色
+$font-h1: 30px;
+$font-h2: 18px;
+$font-h3: 16px;
+$font-default: 14px;
+$font-small: 12px;
+
+$border: 1px solid #EAEAEA;
+// block hover
+$border-hover: 1px solid #f3f3f4;
+$box-shadow: 0 0 10px 0 rgba(7,13,20,0.12);
+
+$transition: all ease-in-out 0.25s;
+
+$container-width: 1200px;
+
+$color-theme: #3F70FE
